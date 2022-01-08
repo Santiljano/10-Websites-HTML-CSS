@@ -16,3 +16,6 @@ Fashion Design
 
 Web Nr.Five 
 tourism-design
+
+Web Nr.Six 
+Newspaper 
