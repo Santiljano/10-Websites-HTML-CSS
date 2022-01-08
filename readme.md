@@ -19,3 +19,6 @@ tourism-design
 
 Web Nr.Six 
 Newspaper 
+
+Web Nr.Seven
+legal-design
